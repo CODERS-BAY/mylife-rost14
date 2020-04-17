@@ -1,5 +1,5 @@
 
-Nmae: Robert Stiglbauer<br>
+Name: Robert Stiglbauer<br>
 Nationality: Austria<br>
 Place of residence: Vöcklabruck<br>
 Date of Birth: 14.04.1991<br>
